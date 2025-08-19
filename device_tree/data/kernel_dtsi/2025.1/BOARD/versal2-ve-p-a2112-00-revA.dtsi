@@ -66,5 +66,4 @@
 &gem0 {
 	dma-coherent;
 };
-
 /* GPIO leds/dips/pushPB, SMA to PL */
